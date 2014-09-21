@@ -1,3 +1,5 @@
+## Solves the inverse matrix faster, using the cache if possible 
+
 ## Creates a special matrix, which is a list containing 4 differents functions to operate on the inverse matrix 
 makeCacheMatrix <- function(x = matrix()) {
 
